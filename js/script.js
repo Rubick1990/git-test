@@ -1,9 +1,9 @@
 cont = 0;
 function saludo(){
-    if(cont<2||cont>0){
+    if(cont<3||cont>1){
         no();
     }
-    else if(cont>1){
+    else if(cont>0){
         alert("Te estoy diciendo que ");
         no();
     }
